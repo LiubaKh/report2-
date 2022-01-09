@@ -67,4 +67,4 @@ spec:
 ![](image3.5.png) 
 
 5.Видео с обзором созданного кластера:
-![](лаб_работа2.mov) 
+![](https://drive.google.com/file/d/1ZmAQujIqaBBzg5Kpay8E3C1R3Fdo05ap/view?usp=sharing) 
